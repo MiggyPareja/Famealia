@@ -1,41 +1,41 @@
 
 *{
-    margin: 0;
-    padding: 0;
-    scroll-behavior: smooth-scroll;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth-scroll;
 }
 body{
-    overflow-x: hidden;
-    
+  overflow-x: hidden;
+  
 }
 
 nav{
-	background-color: rgb(207, 193, 173,0.7);
-	
+background-color: rgb(207, 193, 173,0.7);
+
 }
 footer{
-    background-color: rgb(207, 193, 173);
+  background-color: rgb(207, 193, 173);
 }
 .carousel__img, .carousel__caption {
-	
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
+
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
 }
 .carousel__caption{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 1;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    
-  }
-  .letter-spacing{
-    letter-spacing:6px;
-  }
-  .letter-spacingfam{
-    letter-spacing:3px;
-  }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  
+}
+.letter-spacing{
+  letter-spacing:6px;
+}
+.letter-spacingfam{
+  letter-spacing:3px;
+}
