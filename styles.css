@@ -16,6 +16,9 @@ background-color: rgb(207, 193, 173,0.7);
 footer{
   background-color: rgb(207, 193, 173);
 }
+img{
+  object-fit:cover;
+}
 .carousel__img, .carousel__caption {
 
   width: 100vw;
